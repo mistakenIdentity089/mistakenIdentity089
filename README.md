@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mistakenIdentity089
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning the basic steps to complete my project.
-- 💞️ I’m looking for an opportunity to learn to everyone.
+- 💞️ I'm seeking opportunities to learn and share knowledge with everyone
 - 📫 mistakenIdentity089/mistakenIdentity089 is my account to reach me.
 
 <!---
